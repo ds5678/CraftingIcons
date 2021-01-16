@@ -1,6 +1,6 @@
 # CraftingIcons
 
-30 pre-bundled crafting icons for modding *The Long Dark*. See the wiki for more details.
+30 pre-bundled crafting icons for modding *The Long Dark*. See the [wiki](https://github.com/ds5678/CraftingIcons/wiki) for more details.
 
 ## Contributions
 
